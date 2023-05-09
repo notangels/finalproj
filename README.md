@@ -1,4 +1,5 @@
 # Acme Blogs
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f80f1196-d5e4-4a7c-a52b-b40a583c9cd8/deploy-status)](https://app.netlify.com/sites/fancy-haupia-dbc4b2/deploys)
 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/gitdagray/js_acme_blogs)
 
